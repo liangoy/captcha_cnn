@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/liangoy/project/captcha_cnn/model/cnn_4c/cnn_4c"
+all_model_checkpoint_paths: "/home/liangoy/project/captcha_cnn/model/cnn_4c/cnn_4c"
